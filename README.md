@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### A Full-Stack Developer and commmunity contributor based out of the Dairy State 🐮
 <!--
 **DrewBruh/DrewBruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
